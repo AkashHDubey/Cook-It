@@ -7,5 +7,4 @@
   <li>Run npx json-server --watch ./data/db.json to start up JSON Server</li>
   <li>Run npm run start to start up project</li>
 </ul>
-<h3>Demo</h3>
 
