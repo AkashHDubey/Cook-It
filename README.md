@@ -7,4 +7,4 @@
   <li>Run npm run start to start up project</li>
 </ul>
 <h3>Demo</h3>
-![Demo](Recipe.gif)
+![](Recipe.gif)
